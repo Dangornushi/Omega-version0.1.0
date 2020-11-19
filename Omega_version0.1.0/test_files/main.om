@@ -1,0 +1,7 @@
+class Main{
+    def main(){
+        int 5 = 12
+        str = a = str
+        print{int 5}
+    }
+}
