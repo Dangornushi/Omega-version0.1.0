@@ -22,7 +22,7 @@ Omega-ver0.0.5<https://github.com/pythonmaster1027/Omega-version0.0.1>
 
 # 基本構文
 
-たとえば、Omega言語ではこのようコードを実行することができます。
+たとえば、Omega言語ではこのようなコードを実行することができます。
 
 ~~~om:main.om
 //コメント
